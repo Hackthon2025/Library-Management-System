@@ -1,44 +1,45 @@
-# [Project Name] 🎯
+# LIBRARY MANAGEMENT SYSTEM 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hackthon2025
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Shreya Hareesh - UKF COLLEGE OF ENGINEERING & TECHNOLOGY PARIPALLY KOLLAM 
+- Member 2: Athira A S -     UKF COLLEGE OF ENGINEERING & TECHNOLOGY PARIPALLY KOLLAM
+- Member 3: Athulya Sunil -  UKF COLLEGE OF ENGINEERING & TECHNOLOGY PARIPALLY KOLLAM
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Library Management System Basically it's a website which has to be taken from the library.This website gives reminders about the due date, fine will be executed.
+Firstly,this website needs an admin to control things.it can implement AR to help user located physical books in the library.User point their phone camera at a shelf or section and the website will highlight the location of the book they are look for.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+What ridiculous problem are you solving?
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[  ]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML
+- Style CSS
+- Libraries used
+- Tools used
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- List main components
+- List specifications
+- List tools required
 
 ### Implementation
-For Software:
+For Software:Front end Design,Book table: book id,title,publisher,publication date,Return Due Date,frame work using html and CSS ,Back end development:-implement the database schema using a relational database management system such as MYSQL.
 # Installation
-[commands]
+commands
 
 # Run
 [commands]
@@ -47,8 +48,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1]()
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
@@ -84,16 +84,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+Add your demo video link here
 *Explain what the video demonstrates*
 
 # Additional Demos
-[Add any extra demo materials/links]
+Add any extra demo materials/links
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Shreya Hareesh: create Style CSS page
+- Athira A S: create Style CSS page
+- Name 3: create HTML page
 
 ---
 Made with ❤️ at TinkerHub
